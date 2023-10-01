@@ -2,7 +2,7 @@
 
 Repositório de estudo do Power Bi
 
--- desafio módulo 2: Company transformation
+-- desafio módulo 3: Company transformation
 
 - Em Department Mgr_ssn alterado tipo para número inteiro 
 - Em Dependent Essn alterado tipo para número inteiro 
